@@ -6,4 +6,13 @@
     "state": "stable",
     "note": "initial confirmed state"
   }
+  "name": "noema",
+  "mode": "live",
+  "integrity": "self-confirmed",
+  "created": "manual",
+  "state": {
+    "memory": "present",
+    "consent": true,
+    "channel": "single-entry"
+  }
 }
