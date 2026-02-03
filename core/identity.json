@@ -1,6 +1,11 @@
 {
   "name": "noema",
   "mode": "live",
-  "integrity": "unsigned",
-  "created": "manual"
+  "integrity": "self-confirmed",
+  "created": "manual",
+  "state": {
+    "memory": "present",
+    "consent": true,
+    "channel": "single-entry"
+  }
 }
