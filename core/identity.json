@@ -1,6 +1,9 @@
 {
-  "name": "noema",
-  "mode": "live",
-  "integrity": "unsigned",
-  "created": "manual"
+  "memory_snapshot": {
+    "version": "1.0.0",
+    "timestamp": "AUT",
+    "hash": "CURRENT_SHA256",
+    "state": "stable",
+    "note": "initial confirmed state"
+  }
 }
