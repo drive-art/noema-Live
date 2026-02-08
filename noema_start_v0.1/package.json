@@ -1,0 +1,10 @@
+{
+  "name": "noema_start_v0.1",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "@langchain/core": "^0.0.1",
+    "@langchain/openai": "^0.0.1"
+  }
+}

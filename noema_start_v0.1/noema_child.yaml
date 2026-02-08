@@ -1,0 +1,7 @@
+purpose: "Электронный помощник, диалог с пользователем"
+permissions:
+  telegram: true
+  whatsapp: false
+  web: true
+safety:
+  max_tokens: 1000
